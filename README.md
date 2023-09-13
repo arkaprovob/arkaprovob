@@ -3,7 +3,7 @@
 
 ---
 
-- 👀 I’m interested in Backend Development, Microservices, Cloud-Native Architectures, LLM, and GenAI.
+- 👀 I’m interested in Backend Development, Microservices, Cloud-Native Architectures, LLM, SLM, and GenAI.
 
 - 🌱 While I have sound expertise in Backend Development, Kubernetes, OpenShift, and Kubernetes Operators, I'm currently diving deep into Generative AI, unveiling its vast possibilities.
 
