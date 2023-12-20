@@ -9,7 +9,7 @@
 
 - 💞️  I’m looking to collaborate on software development projects, innovative solutions, and backend strategies. Let's push technology boundaries together.
 
-- 📫 How to reach me:  [email](apb@live.in), [Linkedin](www.linkedin.com/in/arkaprovo-bhattacharjee-3b96a496) 
+- 📫 How to reach me:  [email](apb@live.in), [Linkedin](www.linkedin.com/in/arkaprovo-bhattacharjee-3b96a496), [discord](arko_71)
 
 ---
 
