@@ -3,13 +3,16 @@
 
 ---
 
-- 👀 I’m interested in Backend Development, Microservices, Cloud-Native Architectures, 🤖 LLM, SLM, and GenAI 🤖.
+- 👀 I’m interested in Backend Development, Microservices, Cloud-Native Architectures, 🤖 LLM, SLM, and GenAI 🤖.*
 
 - 🌱 While I have sound expertise in Backend Development, Kubernetes, OpenShift, and Kubernetes Operators, I'm currently diving deep into Generative AI, unveiling its vast possibilities.
 
 - 💞️  I’m looking to collaborate on software development projects, innovative solutions, and backend strategies. Let's push technology boundaries together.
 
 - 📫 How to reach me:  [email](apb@live.in), [Linkedin](www.linkedin.com/in/arkaprovo-bhattacharjee-3b96a496), [discord ~ arko_71](https://discordapp.com/users/863314715854110771)
+
+
+* Hooked on generative AI lately and it's turned me into a night owl! Who needs sleep when there's a whole world of AI research papers and Git repos to explore, right? I'm chugging through this tech buffet like there's no tomorrow, always worried I'll miss out on the coolest bits. It's like my brain's on a non-stop AI party, and sleep wasn't invited.
 
 ---
 
