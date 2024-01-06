@@ -3,7 +3,7 @@
 
 ---
 
-- 👀 I’m interested in Backend Development, Microservices, Cloud-Native Architectures, 🤖 LLM, SLM, and GenAI 🤖.*
+- 👀 I’m interested in Backend Development, Microservices, Cloud-Native Architectures, 🤖 LLM, SLM, and GenAI 🤖.
 
 - 🌱 While I have sound expertise in Backend Development, Kubernetes, OpenShift, and Kubernetes Operators, I'm currently diving deep into Generative AI, unveiling its vast possibilities.
 
@@ -13,8 +13,7 @@
 
 
 
-
-* Hooked on generative AI lately and it's turned me into a night owl! Who needs sleep when there's a whole world of AI research papers and Git repos to explore, right? I'm chugging through this tech buffet like there's no tomorrow, always worried I'll miss out on the coolest bits. It's like my brain's on a non-stop AI party, and sleep wasn't invited.
+💀Hooked on generative AI lately and it's turned me into a night owl! Who needs sleep when there's a whole world of AI research papers and Git repos to explore, right? I'm chugging through this tech buffet like there's no tomorrow, always worried I'll miss out on the coolest bits. It's like my brain's on a non-stop AI party, and sleep wasn't invited.
 
 ---
 
